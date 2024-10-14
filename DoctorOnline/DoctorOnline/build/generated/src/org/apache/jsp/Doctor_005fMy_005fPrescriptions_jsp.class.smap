@@ -1,0 +1,31 @@
+SMAP
+Doctor_005fMy_005fPrescriptions_jsp.java
+JSP
+*S JSP
+*F
++ 0 Doctor_My_Prescriptions.jsp
+Doctor_My_Prescriptions.jsp
++ 1 DoctorHeader.jsp
+DoctorHeader.jsp
++ 2 Footer.jsp
+Footer.jsp
+*L
+5,14:58
+5#1,62:72
+66,2:134
+67,63:135
+18#0,2:197
+20,4:14
+23,2:199
+25,2:202
+26,10:204
+36,14:215
+49:229
+50,8:230,3
+58,2:254
+59,9:256
+67,4:265
+1#2:269
+5,84:270
+70#0,4:353
+*E

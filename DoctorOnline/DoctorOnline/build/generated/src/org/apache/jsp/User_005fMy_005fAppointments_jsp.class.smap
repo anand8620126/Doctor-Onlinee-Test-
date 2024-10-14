@@ -1,0 +1,31 @@
+SMAP
+User_005fMy_005fAppointments_jsp.java
+JSP
+*S JSP
+*F
++ 0 User_My_Appointments.jsp
+User_My_Appointments.jsp
++ 1 UserHeader.jsp
+UserHeader.jsp
++ 2 Footer.jsp
+Footer.jsp
+*L
+5,14:60
+19,6:14
+24,2:74
+26,2:77
+27,2:79
+5#1,62:81
+67:143,3
+68,59:146
+28#0,4:204
+32,12:209
+43:221
+44,13:222,3
+57,2:261
+58,9:263
+66,4:272
+1#2:276
+5,84:277
+69#0,4:360
+*E

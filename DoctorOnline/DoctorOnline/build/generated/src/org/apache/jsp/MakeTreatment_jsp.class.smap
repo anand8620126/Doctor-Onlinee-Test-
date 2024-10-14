@@ -1,0 +1,25 @@
+SMAP
+MakeTreatment_jsp.java
+JSP
+*S JSP
+*F
++ 0 MakeTreatment.jsp
+MakeTreatment.jsp
++ 1 DoctorHeader.jsp
+DoctorHeader.jsp
++ 2 Footer.jsp
+Footer.jsp
+*L
+5,14:58
+5#1,62:72
+66,2:134
+67,63:135
+18#0,2:197
+20,4:14
+23,2:199
+25,2:202
+26,42:204
+1#2:246
+5,84:247
+67#0,4:330
+*E

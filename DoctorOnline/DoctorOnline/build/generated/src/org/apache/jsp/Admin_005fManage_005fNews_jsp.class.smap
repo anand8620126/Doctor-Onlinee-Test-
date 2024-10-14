@@ -1,0 +1,33 @@
+SMAP
+Admin_005fManage_005fNews_jsp.java
+JSP
+*S JSP
+*F
++ 0 Admin_Manage_News.jsp
+Admin_Manage_News.jsp
++ 1 Admin_Header.jsp
+Admin_Header.jsp
++ 2 Footer.jsp
+Footer.jsp
+*L
+5,36:57
+5#1,60:93
+65:153,3
+66,69:156
+40#0,2:224
+42,3:14
+44,2:226
+46,2:229
+47,37:231
+84,8:269
+91,3:277
+94:280,3
+95,3:283
+98,4:286,3
+102,2:298
+104,9:301
+112,4:310
+1#2:314
+5,84:315
+115#0,4:398
+*E
